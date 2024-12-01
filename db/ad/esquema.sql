@@ -1,0 +1,3 @@
+CREATE SCHEMA ad
+	AUTHORIZATION dbo;
+	
